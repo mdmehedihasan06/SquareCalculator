@@ -1,0 +1,9 @@
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\bin\Debug\SquareCalculationApp.exe.config
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\bin\Debug\SquareCalculationApp.exe
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\bin\Debug\SquareCalculationApp.pdb
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\obj\Debug\SquareCalculationApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\obj\Debug\SquareCalculationApp.Form1.resources
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\obj\Debug\SquareCalculationApp.Properties.Resources.resources
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\obj\Debug\SquareCalculationApp.csproj.GenerateResource.Cache
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\obj\Debug\SquareCalculationApp.exe
+E:\Visual Studio Work\SquareCalculationApp\SquareCalculationApp\obj\Debug\SquareCalculationApp.pdb
